@@ -113,8 +113,6 @@ The engine lives entirely in `src/logic/analysisEngine.js` as pure, framework-ag
 
 ## 🤖 GenAI Usage Documentation
 
-_(Required section as per assignment brief)_
-
 ### Tools Used
 
 - **Claude (claude.ai)** — used as the primary AI assistant throughout development.
